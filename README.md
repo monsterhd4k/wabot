@@ -29,9 +29,9 @@
 ```
 
 # Heroku/replit Method
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dvnz99/wabot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Akmall-236/wabot/)
 
-[![Run on Repl.it](https://repl.it/badge/github/dvnz99/wabot)](https://repl.it/github/Dvnz99/wabot)
+[![Run on Repl.it](https://repl.it/badge/github/dvnz99/wabot)](https://repl.it/github/Akmall-236/wabot)
 
 
 # Install For Vps/Rdp/Windows
